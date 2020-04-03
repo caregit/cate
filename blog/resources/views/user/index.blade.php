@@ -1,0 +1,10 @@
+<html>
+<head>
+    <title>测试结果</title>
+</head>
+<body>
+<div>
+    {{$test}}
+</div>
+</body>
+</html>
