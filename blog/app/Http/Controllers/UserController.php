@@ -7,7 +7,7 @@
  */
 
 namespace App\Http\Controllers;
-use Illuminate\Route\Controller;
+use Illuminate\Http\Request;
 
 class UserController extends  Controller
 {
